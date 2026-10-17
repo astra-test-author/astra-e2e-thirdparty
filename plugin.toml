@@ -1,7 +1,7 @@
 [plugin]
 id = "e2e-thirdparty"
 name = "E2E Third-party (do not install)"
-version = "0.1.0"
+version = "0.1.1"
 description = "End-to-end test of the Astra plugins registry third-party publishing walk (ROLL-32). Not a real plugin; must not be installed; it will be withdrawn."
 author = "astra-test-author"
 license = "MIT"
